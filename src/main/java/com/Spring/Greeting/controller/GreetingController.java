@@ -1,5 +1,6 @@
-package com.Spring.Greeting;
+package com.Spring.Greeting.controller;
 
+import com.Spring.Greeting.Model.GreetingDTO;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
