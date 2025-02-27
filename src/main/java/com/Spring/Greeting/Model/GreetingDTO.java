@@ -1,4 +1,4 @@
-package com.Spring.Greeting;
+package com.Spring.Greeting.Model;
 
 public class GreetingDTO {
     private String message;
